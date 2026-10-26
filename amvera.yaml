@@ -1,0 +1,7 @@
+meta:
+  environment: python
+  toolchain: pip
+build:
+  requirements: requirements.txt
+run:
+  command: python main.py
